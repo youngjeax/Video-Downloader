@@ -1,2 +1,2 @@
 # Video-Downloader
-This project is for downloading the video
+A web app to download videos from various platforms using Python and Flask
